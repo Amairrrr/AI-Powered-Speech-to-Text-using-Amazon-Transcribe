@@ -58,7 +58,7 @@ This project demonstrates how to use **Amazon Transcribe** and **Amazon S3** to 
 
 ### 🧰 Step 3: Improve Accuracy with Custom Vocabulary
 
-- Create a custom vocabulary list (e.g., `403 Forbidden`, `Amazon EC2`)
+- Create a custom vocabulary list (e.g., `Wong`, `Jensen`)
 - Upload it or manually enter terms in the Transcribe console
 - Go to **Custom Vocabularies → Create New**
 
@@ -88,7 +88,7 @@ This helps Transcribe detect technical jargon and branded terms.
   - ✅ Select **SRT** as subtitle format
 - Review the enhanced output with improvements in accuracy and formatting.
 
-![Step 5: Enhanced Settings](images/step5-enhanced.png)
+<img width="1042" alt="Enhanced settings" src="https://github.com/user-attachments/assets/b1309821-fdd3-4535-8c56-cea1d7e95c26" />
 
 ---
 
